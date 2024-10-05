@@ -53,13 +53,18 @@ The following tools where used
 ------------------------
 
 ### Data Extraction, Transformation, Loading and Preparation
+- **Data Extraction**
 Our data was extracted from **SSMS (SQL Server Management Studio)** using the query below:
 
+Input:
 ```SQL 
 Select * from [dbo].[InternationalBreweries]
 ```
 
-afterwhich, the needed field was created to **View** using the query below 
+Output:
+
+
+afterwhich, the needed field was created to **View** using the query below:
 
 Input:
 ```SQL 
@@ -69,19 +74,26 @@ Select SALES_ID, SALES_REP, BRANDS, QUANTITY, COUNTRIES, REGION, MONTHS, YEARS
 from [dbo].[InternationalBreweries]
 ```
 
-Output:
-
-
 ```SQL
 Select * from [dbo].[VW_International_Breweries]
 ```
 
+Output:
+
+
 > [!Note]
-> in order to conceal confidentail fields
+> View was created in order to conceal confidential fields
+
+- **Data Transformation**
+The data require no tranformation as it was already structured
+
+- **Data Loading**
+The view data was loaded to excel for **Analysis** and **Visualization**
+
+### Data Analysis
 
 
-
-
+### Data Visualization
 
 
 
