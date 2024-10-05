@@ -100,7 +100,8 @@ The view data was loaded on excel for **Analysis** and **Visualization**
 
 With the use of Pivot table in excel, our large dataset was summarised and the table below was extracted for visualization
 
-**Quantity Sold Per Brand Per Country**					
+**Quantity Sold Per Brand Per Country from 2017-2019**					
+
 |     |Beta Malt|Budweiser|Castle Light|Eagle Lager|Grand Malt| Hero |Trophy|
 |-----|---------|---------|------------|-----------|----------| ---- |------|
 |**Benin**|23902|25156|25639|24876|24967|26126|25658|176324|
@@ -110,7 +111,9 @@ With the use of Pivot table in excel, our large dataset was summarised and the t
 |**Togo**|24747|24623|25074|25455|25613|24837|25559|175908|
 |**Grand Total**|**125063**|**126274**|**128174**|**127803**|**126289**|**129060**|**128059**|
 
-**Quantity Sold Per Brand Per Sales Representatives**						
+
+**Quantity Sold Per Brand Per Sales Representatives**		
+
 |     |Beta Malt|Budweiser|Castle Light|Eagle Lager|Grand Malt| Hero |Trophy|
 |-----|---------|---------|------------|-----------|----------| ---- |------|
 |Andrews|	13197|	14310|	11180|	12313|	13294|	12888|	12716|	
