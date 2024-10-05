@@ -13,16 +13,16 @@ This is to analyze International Breweries Sales from 2017 till 2019, determinin
 putting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
 
  ------------------------
+### Table of Content
+- [Data source](#Data-source)
 
-[Data source](#Data-source)
+- [Tools Used](#Tools-Used)
 
-[Tools Used](#Tools-Used)
+- [Data Extraction, Transformation, and Loading](#Data-Extraction-Transformation-and-Loading)
 
-[Data Extraction, Transformation, and Loading](#Data-Extraction-Transformation-and-Loading)
+- [Data Analysis](#Data-Analysis)
 
-[Data Analysis](#Data-Analysis)
-
-[Data Visualization](#Data-Visualization)
+- [Data Visualization](#Data-Visualization)
 
 -------------------------------------------------------------
 
