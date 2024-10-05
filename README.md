@@ -63,6 +63,7 @@ Select * from [dbo].[InternationalBreweries]
 
 Output:
 
+![Image](https://github.com/A-Odunayo/LITA_Project/blob/main/International%20Brewery%20Data%20Output.PNG)
 
 afterwhich, the needed field was created to **View** using the query below:
 
