@@ -18,9 +18,7 @@ putting into use some of the things learnt during my data analysis class with **
 
 [Tools Used](#Tools-Used)
 
-[Data Extraction, Transformation, Loading and Preparation](#Data-Extraction-Transformation-Loading-and-Preparation)
-
-[Exploratory Data Analysis](Exploratory-Data-Analysis)
+[Data Extraction, Transformation, and Loading](#Data-Extraction-Transformation-and-Loading)
 
 [Data Analysis](#Data-Analysis)
 
@@ -52,7 +50,7 @@ The following tools where used
 
 ------------------------
 
-### Data Extraction, Transformation, Loading and Preparation
+### Data Extraction, Transformation, and Loading
 - **Data Extraction**
 Our data was extracted from **SSMS (SQL Server Management Studio)** using the query below:
 
@@ -87,12 +85,15 @@ Output:
 > **View** was created in order to conceal confidential fields
 
 - **Data Transformation**
+
 The data require no tranformation as it was already structured
 
 - **Data Loading**
-The view data was loaded to excel for **Analysis** and **Visualization**
+
+The view data was loaded on excel for **Analysis** and **Visualization**
 
 ### Data Analysis
+
 
 
 ### Data Visualization
