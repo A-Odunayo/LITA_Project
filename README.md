@@ -40,12 +40,14 @@ The following tools where used
 
     1. Data Storage
     2. Data Querying and Manipulation
+
 [Download SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
 
  - **Microsoft Excel** for:
 
     1. Data Analysis
     2. Data Visualization
+
 [Download Microsoft Excel](https://microsoft-excel-2016.en.download.it/#google_vignette)
 
 ------------------------
