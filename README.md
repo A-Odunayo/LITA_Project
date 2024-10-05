@@ -1,12 +1,12 @@
 # LITA_Project
 
 ### Project Topic
-**Data Analysis Training Project** - *A Case Study of International Brewery Sales Record from 2017-2019*
+**Data Analysis Training Project** - *Analysis of International Breweries Sales Record from 2017-2019*
 
 -----------------------
 
 ### Project Overview
-This is to analyze International Brewery Sales from 2017 till 2019, determining the Sales
+This is to analyze International Breweries Sales from 2017 till 2019, determining the Sales
 - Per Year
 - Per Brand
 - 
@@ -53,8 +53,31 @@ The following tools where used
 ------------------------
 
 ### Data Extraction, Transformation, Loading and Preparation
-Our data is extracted from SQL using the query below:
+Our data was extracted from **SSMS (SQL Server Management Studio)** using the query below:
 
+```SQL 
+Select * from [dbo].[InternationalBreweries]
+```
+
+afterwhich, the needed field was created to **View** using the query below 
+
+Input:
+```SQL 
+Create View VW_International_Breweries
+as
+Select SALES_ID, SALES_REP, BRANDS, QUANTITY, COUNTRIES, REGION, MONTHS, YEARS
+from [dbo].[InternationalBreweries]
+```
+
+Output:
+
+
+```SQL
+Select * from [dbo].[VW_International_Breweries]
+```
+
+> [!Note]
+> in order to conceal confidentail fields
 
 
 
