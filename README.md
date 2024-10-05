@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb7041e2-55d4-46bb-8251-6f7e269d46e3)# LITA_Project
+# LITA_Project
 
 ### Project Topic
 **Data Analysis Training Project** - *Analysis of International Breweries Sales Record from 2017-2019*
