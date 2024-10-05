@@ -18,7 +18,7 @@ putting into use some of the things learnt during my data analysis class with **
 
 [Tools Used](#Tools-Used)
 
-[Data Cleaning and Preparations](#Data-Cleaning-and-Preparations)
+[Data Extraction, Transformation, Loading and Preparation](#Data-Extraction-Transformation-Loading-and-Preparation)
 
 [Exploratory Data Analysis](Exploratory-Data-Analysis)
 
@@ -26,12 +26,37 @@ putting into use some of the things learnt during my data analysis class with **
 
 [Data Visualization](#Data-Visualization)
 
+-------------------------------------------------------------
+
 ### Data Source
-This data set is an open data made availabilty by our trainer during the cause of the training.
+This data set is an open data made availabilty by my trainer during the cause of the training.
 
 -----------------------------------------------------------------
 
 ### Tools Used
+The following tools where used
+
+- **SQL** (Structed Query Language) for:
+
+    1. Data Storage
+    2. Data Querying and Manipulation
+[Download SQL](https://www.microsoft.com/en-us/sql-server/sql-server-downloads)
+
+ - **Microsoft Excel** for:
+
+    1. Data Analysis
+    2. Data Visualization
+[Download Microsoft Excel](https://microsoft-excel-2016.en.download.it/#google_vignette)
+
+------------------------
+
+### Data Extraction, Transformation, Loading and Preparation
+Our data is extracted from SQL using the query below:
+
+
+
+
+
 
 
 
