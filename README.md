@@ -6,13 +6,15 @@
 -----------------------
 
 ### Project Overview
-This is to analyze International Brewery Sales from 2017 till 2019, using in use everything that was learnt during my data analysis class with **'Incubator Hub'**
+This is to analyze International Brewery Sales from 2017 till 2019, determining the Sales
+- Per Year
+- Per Brand
+- 
+putting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
 
-[Click here to check them out](https://theincubatorng.org/)
+ ------------------------
 
-
-
-[Data sources](#Data-sources)
+[Data source](#Data-source)
 
 [Tools Used](#Tools-Used)
 
@@ -23,6 +25,13 @@ This is to analyze International Brewery Sales from 2017 till 2019, using in use
 [Data Analysis](#Data-Analysis)
 
 [Data Visualization](#Data-Visualization)
+
+### Data Source
+This data set is an open data made availabilty by our trainer during the cause of the training.
+
+-----------------------------------------------------------------
+
+### Tools Used
 
 
 
