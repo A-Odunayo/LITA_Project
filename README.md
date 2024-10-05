@@ -13,7 +13,9 @@ This is to analyze International Breweries Sales from 2017 till 2019, determinin
 putting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
 
  ------------------------
+ 
 ### Table of Content
+
 - [Data source](#Data-source)
 
 - [Tools Used](#Tools-Used)
@@ -27,11 +29,13 @@ putting into use some of the things learnt during my data analysis class with **
 -------------------------------------------------------------
 
 ### Data Source
+
 This data set is an open data made availabilty by my trainer during the cause of the training.
 
 -----------------------------------------------------------------
 
 ### Tools Used
+
 The following tools where used
 
 - **SQL** (Structed Query Language) for:
@@ -51,7 +55,9 @@ The following tools where used
 ------------------------
 
 ### Data Extraction, Transformation, and Loading
+
 - **Data Extraction**
+
 Our data was extracted from **SSMS (SQL Server Management Studio)** using the query below:
 
 Input:
@@ -60,7 +66,6 @@ Select * from [dbo].[InternationalBreweries]
 ```
 
 Output:
-
 ![Image](https://github.com/A-Odunayo/LITA_Project/blob/main/International%20Brewery%20Data%20Output.PNG)
 
 afterwhich, the needed field was created to **View** using the query below:
@@ -78,7 +83,6 @@ Select * from [dbo].[VW_International_Breweries]
 ```
 
 Output:
-
 ![image](https://github.com/user-attachments/assets/746da6e6-d8c9-4f2d-a491-0afa1ae3ebb2)
 
 > [!Note]
