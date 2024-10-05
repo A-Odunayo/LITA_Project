@@ -81,9 +81,10 @@ Select * from [dbo].[VW_International_Breweries]
 
 Output:
 
+![image](https://github.com/user-attachments/assets/746da6e6-d8c9-4f2d-a491-0afa1ae3ebb2)
 
 > [!Note]
-> View was created in order to conceal confidential fields
+> **View** was created in order to conceal confidential fields
 
 - **Data Transformation**
 The data require no tranformation as it was already structured
