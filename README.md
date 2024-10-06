@@ -48,6 +48,8 @@ The following tools where used
 
 [Download Microsoft Excel](https://microsoft-excel-2016.en.download.it/#google_vignette)
 
+[Go Back to the Table of Content](#Table-of-Content)
+
 ------------------------
 
 ### Data Extraction, Transformation, and Loading
