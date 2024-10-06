@@ -3,12 +3,12 @@
 ### Project Topic
 **Data Analysis Training Project** - *Analysis of International Breweries Sales Record from 2017-2019*
 
------------------------
+---
 
 ### Project Overview
 This is to analyze International Breweries Sales from 2017 till 2019, determining the some Sales Parameters and putting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
 
- ------------------------
+ ---
  
 ### Table of Content
 
@@ -22,7 +22,7 @@ This is to analyze International Breweries Sales from 2017 till 2019, determinin
 
 - [Data Visualization](#Data-Visualization)
 
--------------------------------------------------------------
+---
 
 ### Data Source
 
@@ -48,9 +48,10 @@ The following tools where used
 
 [Download Microsoft Excel](https://microsoft-excel-2016.en.download.it/#google_vignette)
 
+
 [Go Back to the Table of Content](#Table-of-Content)
 
-------------------------
+---
 
 ### Data Extraction, Transformation, and Loading
 
@@ -83,6 +84,7 @@ Select * from [dbo].[VW_International_Breweries]
 Output:
 ![image](https://github.com/user-attachments/assets/746da6e6-d8c9-4f2d-a491-0afa1ae3ebb2)
 
+
 > [!Note]
 > **View** was created in order to conceal confidential fields
 
@@ -94,9 +96,10 @@ The data require no tranformation as it was already structured
 
 The view data was loaded on excel for **Analysis** and **Visualization**
 
+
 [This takes you to the Table of Content](#Table-of-Content)
 
-----
+---
 
 ### Data Analysis
 
@@ -130,6 +133,7 @@ With the use of Pivot table in excel, our large dataset was summarised and the t
 |Sorvino|	12525|	13350|	12591|	14702|	13247|	14221|	10877	|
 |Thompson|	6694|	7802|	7152|	7381|	7158|	6793|	6832	
 |**Grand Total**|**125063**|**126274**|**128174**|**127803**|**126289**|**129060**|**128059**|
+
 
 [Clicking here take you to the Table of Content](#Table-of-Content)
 
