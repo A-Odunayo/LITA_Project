@@ -6,11 +6,7 @@
 -----------------------
 
 ### Project Overview
-This is to analyze International Breweries Sales from 2017 till 2019, determining the Sales
-- Per Year
-- Per Brand
-- 
-putting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
+This is to analyze International Breweries Sales from 2017 till 2019, determining the some Sales Parametersputting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
 
  ------------------------
  
