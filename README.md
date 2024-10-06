@@ -6,7 +6,7 @@
 -----------------------
 
 ### Project Overview
-This is to analyze International Breweries Sales from 2017 till 2019, determining the some Sales Parametersputting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
+This is to analyze International Breweries Sales from 2017 till 2019, determining the some Sales Parameters and putting into use some of the things learnt during my data analysis class with **'Incubator Hub'**   [Check them out](https://theincubatorng.org/)
 
  ------------------------
  
@@ -127,6 +127,17 @@ With the use of Pivot table in excel, our large dataset was summarised and the t
 
 
 ### Data Visualization
+**Quantity Sold Per Brand Per Country from 2017-2019**	
+![International Brewery Data Visual](https://github.com/user-attachments/assets/322de59f-d0ac-400c-b78d-6383301b3fb9)
+| 2017  | 2018 | 2019 |
+|-------|------|------|
+|![image](https://github.com/user-attachments/assets/e503d66b-1529-4704-8fab-9d1b50e50b6d)
+|![image](https://github.com/user-attachments/assets/95e78634-f954-4903-b6a8-aedfbb834e06)
+|![image](https://github.com/user-attachments/assets/9c542d80-e722-47a0-bfef-732e2a1e4d7f)|
+
+**Quantity Sold Per Brand Per Sales Representatives**
+![International Brewery Data Visual 2](https://github.com/user-attachments/assets/d07c4c8f-c7a6-4849-a4d0-fb6c1c05b669)
+
 
 
 
