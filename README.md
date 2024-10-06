@@ -94,6 +94,10 @@ The data require no tranformation as it was already structured
 
 The view data was loaded on excel for **Analysis** and **Visualization**
 
+[This takes you to the Table of Content](#Table-of-Content)
+
+----
+
 ### Data Analysis
 
 With the use of Pivot table in excel, our large dataset was summarised and the table below was extracted for visualization
@@ -127,6 +131,9 @@ With the use of Pivot table in excel, our large dataset was summarised and the t
 |Thompson|	6694|	7802|	7152|	7381|	7158|	6793|	6832	
 |**Grand Total**|**125063**|**126274**|**128174**|**127803**|**126289**|**129060**|**128059**|
 
+[Clicking here take you to the Table of Content](#Table-of-Content)
+
+---
 
 ### Data Visualization
 **Quantity Sold Per Brand Per Country from 2017-2019**	
@@ -152,6 +159,6 @@ With the use of Pivot table in excel, our large dataset was summarised and the t
 > I can see a lot of insight from these visualization 🥰
 > '*The more you look, the more you see*' ✌️ 
 
-
+[Click here to go back to the start](#LITA_Project)
 
 
